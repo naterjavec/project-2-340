@@ -1,0 +1,258 @@
+[
+ {
+   "title": "Wake",
+   "artist": "Richard Serra",
+   "category": "sculpture",
+   "museum": "Olympic Sculpture Park",
+   "img": "img/art-imgs/wake.jpg",
+   "website": "http://www.seattleartmuseum.org/visit/olympic-sculpture-park"
+ },
+ {
+   "title": "The Eagle",
+   "artist": "Alexander Calder",
+   "category": "sculpture",
+   "museum": "Olympic Sculpture Park",
+   "img": "img/art-imgs/eagle.jpg",
+   "website": "http://www.seattleartmuseum.org/visit/olympic-sculpture-park"
+ },
+ {
+   "title": "Curve XXIV",
+   "artist": "Ellsworth Kelly",
+   "category": "sculpture",
+   "museum": "Olympic Sculpture Park",
+   "img": "img/art-imgs/curvexxiv.jpg",
+   "website": "http://www.seattleartmuseum.org/visit/olympic-sculpture-park"
+ },
+ {
+   "title": "Echo",
+   "artist": "Jaume Plensa",
+   "category": "sculpture",
+   "museum": "Olympic Sculpture Park",
+   "img": "img/art-imgs/echo.jpg",
+   "website": "http://www.seattleartmuseum.org/visit/olympic-sculpture-park"
+ },
+ {
+   "title": "Love and Loss",
+   "artist": "Roy McMakin",
+   "category": "sculpture",
+   "museum": "Olympic Sculpture Park",
+   "img": "img/art-imgs/love.png",
+   "website": "http://www.seattleartmuseum.org/visit/olympic-sculpture-park"
+ },
+ {
+   "title": "Perre's Ventaglio III",
+   "artist": "Beverly Pepper",
+   "category": "sculpture",
+   "museum": "Olympic Sculpture Park",
+   "img": "img/art-imgs/perres.jpg",
+   "website": "http://www.seattleartmuseum.org/visit/olympic-sculpture-park"
+ },
+ {
+   "title": "Split",
+   "artist": "Roxy Paine",
+   "category": "sculpture",
+   "museum": "Olympic Sculpture Park",
+   "img": "img/art-imgs/split.jpg",
+   "website": "http://www.seattleartmuseum.org/visit/olympic-sculpture-park"
+ },
+ {
+   "title": "Bunyon's Chess",
+   "artist": "Mark Di Suvero",
+   "category": "sculpture",
+   "museum": "Olympic Sculpture Park",
+   "img": "img/art-imgs/chess.jpg",
+   "website": "http://www.seattleartmuseum.org/visit/olympic-sculpture-park"
+ },
+ {
+   "title": "Galukw'amhl",
+   "artist": "Willie Seaweed",
+   "category": "native american",
+   "museum": "Seattle Art Museum",
+   "img": "img/art-imgs/galukw'amhl.jpg",
+   "website": "http://www.seattleartmuseum.org/"
+ },
+ {
+   "title": "Chernobyl Mask",
+   "artist": "David Neel",
+   "category": "native american",
+   "museum": "Seattle Art Museum",
+   "img": "img/art-imgs/chernobyl.jpg",
+   "website": "http://www.seattleartmuseum.org/"
+ },
+ {
+   "title": "Double Elvis",
+   "artist": "Andy Warhol",
+   "category": "modern / contemporary",
+   "museum": "Seattle Art Museum",
+   "img": "img/art-imgs/elvis.jpg",
+   "website": "http://www.seattleartmuseum.org/"
+ },
+ {
+   "title": "Untitled",
+   "artist": "Donald Judd",
+   "category": "modern / contemporary",
+   "museum": "Seattle Art Museum",
+   "img": "img/art-imgs/judd.jpg",
+   "website": "http://www.seattleartmuseum.org/"
+ },
+ {
+   "title": "Winter Landscape on the Banks of the Siene",
+   "artist": "Henri Matisse",
+   "category": "european",
+   "museum": "Seattle Art Museum",
+   "img": "img/art-imgs/matisse.jpg",
+   "website": "http://www.seattleartmuseum.org/"
+ },
+ {
+   "title": "Gin Lane",
+   "artist": "William Bogarth",
+   "category": "european",
+   "museum": "Seattle Art Museum",
+   "img": "img/art-imgs/gin.jpg",
+   "website": "http://www.seattleartmuseum.org/"
+ },
+ {
+   "title": "Pothumous Portrait Head of the Emperor Claudius",
+   "artist": "Unknown",
+   "category": "mediterranean",
+   "museum": "Seattle Art Museum",
+   "img": "img/art-imgs/claudius.jpg",
+   "website": "http://www.seattleartmuseum.org/"
+ },
+ {
+   "title": "Head from a Statue of Pharaoh Thutmosis III",
+   "artist": "Unknown",
+   "category": "mediterranean",
+   "museum": "Seattle Art Museum",
+   "img": "img/art-imgs/tut.jpg",
+   "website": "http://www.seattleartmuseum.org/"
+ },
+ {
+   "title": "The Christian Martyr",
+   "artist": "Gabriel von Max",
+   "category": "european",
+   "museum": "Frye Art Museum",
+   "img": "img/art-imgs/martyr.jpg",
+   "website": "https://fryemuseum.org/"
+ },
+ {
+   "title": "Susanna and the Elders",
+   "artist": "Franz Xavier Winterhalter",
+   "category": "european",
+   "museum": "Frye Art Museum",
+   "img": "img/art-imgs/susana.jpg",
+   "website": "https://fryemuseum.org/"
+ },
+ {
+   "title": "Landscape with Trees",
+   "artist": "Fritz Baer",
+   "category": "european",
+   "museum": "Frye Art Museum",
+   "img": "img/art-imgs/trees.jpg",
+   "website": "https://fryemuseum.org/"
+ },
+ {
+   "title": "Wash Day",
+   "artist": "Fritz Baer",
+   "category": "european",
+   "museum": "Frye Art Museum",
+   "img": "img/art-imgs/wash.jpg",
+   "website": "https://fryemuseum.org/"
+ },
+ {
+   "title": "Three Cows and a Calf",
+   "artist": "Leon Barillot",
+   "category": "european",
+   "museum": "Frye Art Museum",
+   "img": "img/art-imgs/cows.jpg",
+   "website": "https://fryemuseum.org/"
+ },
+ {
+   "title": "Cattle",
+   "artist": "Leon Barillot",
+   "category": "european",
+   "museum": "Frye Art Museum",
+   "img": "img/art-imgs/cattle.jpg",
+   "website": "https://fryemuseum.org/"
+ },
+ {
+   "title": "Dans les Bois",
+   "artist": "Willian-Adolphe Bouguereau",
+   "category": "european",
+   "museum": "Frye Art Museum",
+   "img": "img/art-imgs/bois.jpg",
+   "website": "https://fryemuseum.org/"
+ },
+ {
+   "title": "Flight of Love",
+   "artist": "Willian-Adolphe Bouguereau",
+   "category": "european",
+   "museum": "Frye Art Museum",
+   "img": "img/art-imgs/flight.jpg",
+   "website": "https://fryemuseum.org/"
+ },
+ {
+   "title": "Pollen from Hazelnut",
+   "artist": "Wolfgang Laib",
+   "category": "contemporary",
+   "museum": "Henry Art Gallery",
+   "img": "img/art-imgs/hazel.jpg",
+   "website": "https://henryart.org/"
+ },
+ {
+   "title": "Circles II",
+   "artist": "Doris Totten Chase",
+   "category": "contemporary",
+   "museum": "Henry Art Gallery",
+   "img": "img/art-imgs/circles.jpg",
+   "website": "https://henryart.org/"
+ },
+ {
+   "title": "Tall Ships",
+   "artist": "Gary Hill",
+   "category": "contemporary",
+   "museum": "Henry Art Gallery",
+   "img": "img/art-imgs/ships.jpg",
+   "website": "https://henryart.org/"
+ },
+ {
+   "title": "Empire",
+   "artist": "Kori Newkirk",
+   "category": "contemporary",
+   "museum": "Henry Art Gallery",
+   "img": "img/art-imgs/empire.jpg",
+   "website": "https://henryart.org/"
+ },
+ {
+   "title": "Cape Horn, Columbia River",
+   "artist": "Carleton E. Watkins",
+   "category": "photography",
+   "museum": "Henry Art Gallery",
+   "img": "img/art-imgs/horn.jpg",
+   "website": "https://henryart.org/"
+ },
+ {
+   "title": "Sir John F.W. Herschel",
+   "artist": "Julia Margaret Cameron",
+   "category": "photography",
+   "museum": "Henry Art Gallery",
+   "img": "img/art-imgs/cameron.jpg",
+   "website": "https://henryart.org/"
+ },
+ {
+   "title": "Ampersand",
+   "artist": "Shannon Ebner",
+   "category": "photography",
+   "museum": "Henry Art Gallery",
+   "img": "img/art-imgs/and.jpg",
+   "website": "https://henryart.org/"
+ },
+ {
+   "title": "Untitled",
+   "artist": "Carrie Mae Weems",
+   "category": "photography",
+   "museum": "Henry Art Gallery",
+   "img": "img/art-imgs/weems.jpg",
+   "website": "https://henryart.org/"
+ }
+]
